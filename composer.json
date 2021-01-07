@@ -12,7 +12,7 @@
             "email": "yamunsk@yahoo.co.in"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "yamunarani\\HelloComposer\\": "src/"
