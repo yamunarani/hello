@@ -6,12 +6,7 @@
         "php": ">=5.3.0"
     },
     "license": "mit",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://repo.packagist.org/"
-       }
-   ],
+    
     "authors": [
         {
             "name": "yamuna",
