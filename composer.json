@@ -9,7 +9,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://github.com/yamunarani/hello.git"
+            "url": "https://repo.packagist.org/"
        }
    ],
     "authors": [
